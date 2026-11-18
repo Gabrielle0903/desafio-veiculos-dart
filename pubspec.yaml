@@ -1,0 +1,11 @@
+name: desafio_veiculos
+description: Um projeto em Dart para cadastro de veículos com Supabase.
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  supabase: ^2.2.0
+  dotenv: ^4.2.0
